@@ -1,8 +1,5 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Visualization of the dataset:
+https://www.kaggle.com/datasets/dsfelix/us-stores-sales/data
 
 ### How to run it on your own machine
 
@@ -17,3 +14,5 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+Tags:
+USA, beverages, heatmap, sales.
